@@ -1,0 +1,7 @@
+#Mon Jun 11 15:03:10 IST 2018
+base.0=E\:\\Flappy Bird\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Flappy Bird\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\11

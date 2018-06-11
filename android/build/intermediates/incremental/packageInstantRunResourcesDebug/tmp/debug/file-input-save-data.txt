@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Jun 11 15:03:08 IST 2018
+2.base=E\:\\Flappy Bird\\android\\build\\intermediates\\assets\\debug
+5.set=ASSET
+0.path=bird.png
+2.baseType=DIRECTORY
+3.base=E\:\\Flappy Bird\\android\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=bird2.png
+4.base=E\:\\Flappy Bird\\android\\build\\intermediates\\assets\\debug
+count=6
+5.baseType=DIRECTORY
+2.path=over.png
+5.base=E\:\\Flappy Bird\\android\\build\\intermediates\\assets\\debug
+4.set=ASSET
+3.path=toptube.png
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=bottomtube.png
+1.baseType=DIRECTORY
+5.path=bg.png
+0.base=E\:\\Flappy Bird\\android\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=E\:\\Flappy Bird\\android\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
